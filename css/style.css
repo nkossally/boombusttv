@@ -12,7 +12,7 @@
 
 	body
 	{
-		background: #090909;
+		/* background: #090909; */
 	}
 
 	body,input,textarea,select
@@ -365,5 +365,8 @@
 		margin-left: 60px;
 		margin-bottom: 60px;
 		display: block;
-    	height: 100%;
+		max-height:400px;
+		max-width: 1300px;
+		width: auto;
+		height: auto;
 	}
