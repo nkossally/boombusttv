@@ -370,3 +370,11 @@
 		width: auto;
 		height: auto;
 	}
+
+	.comic_v2{
+		margin-left: -27px;
+		margin-bottom: 60px;
+		display: block;
+		min-height: 550px;
+		width: auto;
+	}
